@@ -67,13 +67,12 @@ code {
   nav ul li a:hover {
     background-image: radial-gradient(rgb(19, 19, 66), rgb(239, 224, 227));
   }
-  
+
   #navbar a {
     margin: 5px 0;
   }
+
   #main-doc {
     margin-left: 0;
   }
-} 
-
-
+}
