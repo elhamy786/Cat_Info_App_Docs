@@ -95,7 +95,7 @@ Keep track of your cat's health records, vaccination schedules, and vet visits f
 Provide your name and a link to your Social Media profiles. You can also include your email address.
 
 - Website: file:///C:/Users/hp/Cat-info-Doc/Cat_Info_App_Docs/index.html
-- LinkedIn: [Your Name](https://linkedin.com/in/your-name)
+- LinkedIn: https://www.linkedin.com/in/elham-afzali-05326130b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - Email: elham.afzali1383@gmail.com
 
 ## Contributing 🤝
