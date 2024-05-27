@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url(istockphoto-1225681170-612x612.jpg);
+  background-image: url(images/istockphoto-1225681170-612x612.jpg);
   color: #333;
   display: flex;
   font-style: oblique;
@@ -10,7 +10,7 @@ body {
 }
 
 #navbar {
-  background-image: url(back-view-black-cat-silhouette-looking-full-moon-blue-background_882954-25072.avif);
+  background-image: url(images/back-view-black-cat-silhouette-looking-full-moon-blue-background_882954-25072.avif);
   color: white;
   padding: 20px;
   position: fixed;
