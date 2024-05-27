@@ -6,16 +6,6 @@
 
 Usefulness:
 CatInfoApp addresses common challenges faced by cat owners by providing easy access to accurate information about cat breeds, care practices, and health management. It simplifies the process of identifying suitable breeds, understanding care requirements, and maintaining health records efficiently.
-
-Key Features:
-
-Breed Information: Detailed profiles of various cat breeds, including characteristics, care guidelines, and personality traits.
-Care Tips: Expert advice on feeding, grooming, and maintaining the overall health of cats.
-Health Tracking: Tools for tracking health records, vaccination schedules, and vet visits for proactive health management.
-Community Forum: A supportive community space for sharing experiences, seeking advice, and connecting with other cat owners.
-Learning Experience:
-Developing CatInfoApp provided insights into the diverse needs of cat owners and the importance of providing accessible and reliable information. It enhanced my understanding of effective communication strategies and user-centric design principles.
-
 Unique Aspects:
 CatInfoApp's comprehensive approach to cat care, combined with its user-friendly design and active community engagement, sets it apart as an essential resource for cat owners globally.
 
@@ -50,13 +40,7 @@ Clone the Repository:
 git clone https://github.com/elhamy786/Cat_Info_App_Docs.git
 Navigate to the Project Directory:
 cd Cat-info-Doc
-Install Dependencies:
-Ensure you have Node.js and npm installed on your system. If not, you can download and install them from the official website: Node.js.
-Once Node.js and npm are installed, install the project dependencies by running:
-npm install
-Start the Application:
-Once the dependencies are installed, you can start the application by running:
-npm start
+
 View the Application:
 Open your web browser and navigate to http://localhost:3000 to view the CatInfoApp.
 ```
@@ -67,18 +51,12 @@ Starting the Application:
 Navigate to the project directory.
 Install dependencies with npm install.
 Start the application with npm start.
-Navigating the App:
-Explore breed information, care tips, health tracking, and the community forum.
-Example Usage:
 
-Click on a cat breed to view detailed information.
-Access care tips for feeding, grooming, and health management.
 Command-line Options:
 
 No specific command-line options; primarily a web application.
 Additional Information:
 
-Refer to documentation for troubleshooting and contribution guidelines.
 
 ## Features ⭐
 Comprehensive Breed Information:
@@ -92,8 +70,6 @@ Health Tracking Tools:
 Keep track of your cat's health records, vaccination schedules, and vet visits for proactive health management.
 ## Author 👩‍💻
 
-Provide your name and a link to your Social Media profiles. You can also include your email address.
-
 - Website: file:///C:/Users/hp/Cat-info-Doc/Cat_Info_App_Docs/index.html
 - LinkedIn: https://www.linkedin.com/in/elham-afzali-05326130b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - Email: elham.afzali1383@gmail.com
@@ -101,10 +77,6 @@ Provide your name and a link to your Social Media profiles. You can also include
 ## Contributing 🤝
 Thank you for considering contributing to CatInfoApp! Here's how you can help:
 
-Bug Reports:
-
-Search existing issues before reporting a bug.
-Provide clear steps to reproduce the bug.
 Feature Requests:
 
 Submit detailed feature requests with use cases.
