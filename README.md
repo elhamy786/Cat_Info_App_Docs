@@ -40,10 +40,6 @@ Clone the Repository:
 git clone https://github.com/elhamy786/Cat_Info_App_Docs.git
 Navigate to the Project Directory:
 cd Cat-info-Doc
-
-View the Application:
-Open your web browser and navigate to http://localhost:3000 to view the CatInfoApp.
-```
 ## Usage 🎯
 
 Starting the Application:
@@ -70,9 +66,8 @@ Health Tracking Tools:
 Keep track of your cat's health records, vaccination schedules, and vet visits for proactive health management.
 ## Author 👩‍💻
 
-- Website: file:///C:/Users/hp/Cat-info-Doc/Cat_Info_App_Docs/index.html
-- LinkedIn: https://www.linkedin.com/in/elham-afzali-05326130b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- Email: elham.afzali1383@gmail.com
+- [Linkedin](https://www.linkedin.com/in/elham-afzali-05326130b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [Email](elham.afzali1383@gmail.com)
 
 ## Contributing 🤝
 Thank you for considering contributing to CatInfoApp! Here's how you can help:
