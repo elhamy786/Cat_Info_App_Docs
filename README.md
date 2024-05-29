@@ -30,6 +30,10 @@ nav ul li a:hover{
     background-image: radial-gradient(rgb(19, 19, 66), rgb(239, 224, 227));
 }
 ```
+## Demo 📸
+
+![Screenshot](./images/Screenshot%20(234).png)
+
 ## Technologies Used 🛠️
 
 - HTML
