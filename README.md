@@ -31,11 +31,8 @@ nav ul li a:hover{
 }
 ```
 ## Demo 📸
-<<<<<<< HEAD
-- https://elhamy786.github.io/Cat_Info_App_Docs/
-=======
 
->>>>>>> ae052ebb85e00d966d7a5e386bf70f877a8840fc
+- [Live Demo] (https://elhamy786.github.io/Cat_Info_App_Docs/)
 ![Screenshot](./images/Screenshot%20(234).png)
 
 ## Technologies Used 🛠️
